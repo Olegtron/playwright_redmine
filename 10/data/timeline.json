@@ -1,0 +1,230 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "DESKTOP-Q9BQ6AN",
+    "children" : [ {
+      "name" : "DESKTOP-Q9BQ6AN-15036-playwright-worker-2",
+      "children" : [ {
+        "name" : "registration with not valid credentials",
+        "uid" : "e1d786eeb00e635e",
+        "parentUid" : "c6f9b32f6707b91f214ac53a31e7fda1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245708657,
+          "stop" : 1660245715739,
+          "duration" : 7082
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c6f9b32f6707b91f214ac53a31e7fda1"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-15036-playwright-worker-3",
+      "children" : [ {
+        "name" : "registration with valid credentials",
+        "uid" : "31a8db10fe6d23a8",
+        "parentUid" : "92087fe2af3c2e4c52686f821d365843",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245708666,
+          "stop" : 1660245715762,
+          "duration" : 7096
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "92087fe2af3c2e4c52686f821d365843"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-4296-playwright-worker-4",
+      "children" : [ {
+        "name" : "registration with valid credentials",
+        "uid" : "50a1d5f50f43d297",
+        "parentUid" : "7764a9a091a1902882a57746377a1b13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246105984,
+          "stop" : 1660246117059,
+          "duration" : 11075
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7764a9a091a1902882a57746377a1b13"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-4296-playwright-worker-2",
+      "children" : [ {
+        "name" : "login with valid credentials",
+        "uid" : "bd081cb85a37dee2",
+        "parentUid" : "b69be2e84a748bdfdd0e93597607dfb5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246105974,
+          "stop" : 1660246112066,
+          "duration" : 6092
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b69be2e84a748bdfdd0e93597607dfb5"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-4296-playwright-worker-1",
+      "children" : [ {
+        "name" : "login with not valid credentials",
+        "uid" : "d0a22be4ac3f60b5",
+        "parentUid" : "871fb05daaab881c8782f023e1d00dd0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246105947,
+          "stop" : 1660246115235,
+          "duration" : 9288
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "871fb05daaab881c8782f023e1d00dd0"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-12048-playwright-worker-1",
+      "children" : [ {
+        "name" : "login with valid credentials",
+        "uid" : "c7c74864367df724",
+        "parentUid" : "f95aded7bb7bca458ab0f934af0c2631",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245517115,
+          "stop" : 1660245522210,
+          "duration" : 5095
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f95aded7bb7bca458ab0f934af0c2631"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-12048-playwright-worker-0",
+      "children" : [ {
+        "name" : "login with not valid credentials",
+        "uid" : "90b8d8c96f5dff85",
+        "parentUid" : "553edd1b2d60cb22c1b85a13bcd77516",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245517111,
+          "stop" : 1660245523430,
+          "duration" : 6319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "553edd1b2d60cb22c1b85a13bcd77516"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-12048-playwright-worker-2",
+      "children" : [ {
+        "name" : "registration with not valid credentials",
+        "uid" : "d6cc44f7a647c310",
+        "parentUid" : "0d23f7aa04b431164db9fd9fe0a04848",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245517118,
+          "stop" : 1660245523547,
+          "duration" : 6429
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0d23f7aa04b431164db9fd9fe0a04848"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-4296-playwright-worker-3",
+      "children" : [ {
+        "name" : "registration with not valid credentials",
+        "uid" : "3c49e4fc1ffee245",
+        "parentUid" : "9f7997cbd956ba9197541957a322e66c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246105962,
+          "stop" : 1660246115215,
+          "duration" : 9253
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9f7997cbd956ba9197541957a322e66c"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-15036-playwright-worker-1",
+      "children" : [ {
+        "name" : "login with valid credentials",
+        "uid" : "9ee8e3c08895e5f1",
+        "parentUid" : "89e0aa523487f5639c498e731202400c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245708649,
+          "stop" : 1660245713353,
+          "duration" : 4704
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "89e0aa523487f5639c498e731202400c"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-4296-playwright-worker-0",
+      "children" : [ {
+        "name" : "deletion of existing account",
+        "uid" : "1e201d60357f9c78",
+        "parentUid" : "f1c08304cbf64cdd526427db8b7b24ee",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246105959,
+          "stop" : 1660246114488,
+          "duration" : 8529
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "f1c08304cbf64cdd526427db8b7b24ee"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-15036-playwright-worker-0",
+      "children" : [ {
+        "name" : "login with not valid credentials",
+        "uid" : "19fb472a4c49bd99",
+        "parentUid" : "c9b8a008ca24e055f25b617c9c8706dc",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245708657,
+          "stop" : 1660245715409,
+          "duration" : 6752
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c9b8a008ca24e055f25b617c9c8706dc"
+    }, {
+      "name" : "DESKTOP-Q9BQ6AN-12048-playwright-worker-3",
+      "children" : [ {
+        "name" : "registration with valid credentials",
+        "uid" : "fa126b8fb6dd760f",
+        "parentUid" : "b62a20749f5a4ecfaafb259071253c18",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245517135,
+          "stop" : 1660245525547,
+          "duration" : 8412
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b62a20749f5a4ecfaafb259071253c18"
+    } ],
+    "uid" : "7e7ab913df1eaa752edab3a4beb49879"
+  } ],
+  "name" : "timeline"
+}

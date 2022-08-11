@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 11 19:28:25 GMT 2022","Thu Aug 11 19:28:35 GMT 2022","9253","chromium","RegP_NTC1.spec.js","","","","registration with not valid credentials",""
+"passed","Thu Aug 11 19:28:25 GMT 2022","Thu Aug 11 19:28:37 GMT 2022","11075","chromium","RegP_PTC1.spec.js","","","","registration with valid credentials",""
+"passed","Thu Aug 11 19:28:25 GMT 2022","Thu Aug 11 19:28:35 GMT 2022","9288","chromium","LogP_NTC1.spec.js","","","","login with not valid credentials",""
+"passed","Thu Aug 11 19:28:25 GMT 2022","Thu Aug 11 19:28:32 GMT 2022","6092","chromium","LogP_PTC1.spec.js","","","","login with valid credentials",""
+"passed","Thu Aug 11 19:28:25 GMT 2022","Thu Aug 11 19:28:34 GMT 2022","8529","chromium","AccP_PTC1.spec.js","","","","deletion of existing account",""
