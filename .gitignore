@@ -4,3 +4,10 @@ playwright-report/
 playwright/.cache/
 test_run_commands.md
 playwright.yml
+_config.yml
+package-lock.json
+package.json
+test_run_commands.md
+allure-report
+allure-results
+playwright.config.js
