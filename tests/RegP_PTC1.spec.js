@@ -21,5 +21,5 @@ test('registration with valid credentials', async ({ page }) => {
     await submit.click();
 
     await expect(elemtext).toHaveText(/Account was successfully created. .*/);
-a
+
   });
