@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://Olegtron.github.io/playwright_redmine",
+  "buildOrder" : 9,
+  "buildName" : "GitHub Actions Run #2842273863",
+  "buildUrl" : "https://github.com/Olegtron/playwright_redmine/actions/runs/2842273863",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://Olegtron.github.io/playwright_redmine/9/"
+} ]

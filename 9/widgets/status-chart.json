@@ -1,0 +1,41 @@
+[ {
+  "uid" : "b9d81e6c3d37b2dd",
+  "name" : "login with not valid credentials",
+  "time" : {
+    "start" : 1660245708657,
+    "stop" : 1660245715409,
+    "duration" : 6752
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9be35503817f0951",
+  "name" : "login with valid credentials",
+  "time" : {
+    "start" : 1660245708649,
+    "stop" : 1660245713353,
+    "duration" : 4704
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6dbcbedbb7d31fb",
+  "name" : "registration with valid credentials",
+  "time" : {
+    "start" : 1660245708666,
+    "stop" : 1660245715762,
+    "duration" : 7096
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f95df548e1da026c",
+  "name" : "registration with not valid credentials",
+  "time" : {
+    "start" : 1660245708657,
+    "stop" : 1660245715739,
+    "duration" : 7082
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
