@@ -1,0 +1,77 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "chromium",
+    "children" : [ {
+      "name" : "LogP_NTC1.spec.js",
+      "children" : [ {
+        "name" : "login with not valid credentials",
+        "uid" : "22d3255591d514e6",
+        "parentUid" : "fd8fd2b5265b51f104afa1ce0863890e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245517111,
+          "stop" : 1660245523430,
+          "duration" : 6319
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fd8fd2b5265b51f104afa1ce0863890e"
+    }, {
+      "name" : "LogP_PTC1.spec.js",
+      "children" : [ {
+        "name" : "login with valid credentials",
+        "uid" : "8086832c46bdbb23",
+        "parentUid" : "038cd9e1bf3ddd413474f82614750a93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245517115,
+          "stop" : 1660245522210,
+          "duration" : 5095
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "038cd9e1bf3ddd413474f82614750a93"
+    }, {
+      "name" : "RegP_NTC1.spec.js",
+      "children" : [ {
+        "name" : "registration with not valid credentials",
+        "uid" : "2534b6f7a205d49",
+        "parentUid" : "fad90baa2d3586e65205d46cb7a505f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245517118,
+          "stop" : 1660245523547,
+          "duration" : 6429
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fad90baa2d3586e65205d46cb7a505f2"
+    }, {
+      "name" : "RegP_PTC1.spec.js",
+      "children" : [ {
+        "name" : "registration with valid credentials",
+        "uid" : "dcfbb8a235b9ac64",
+        "parentUid" : "bdd7ebf514a020cff3dab4fff4c7a5fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245517135,
+          "stop" : 1660245525547,
+          "duration" : 8412
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bdd7ebf514a020cff3dab4fff4c7a5fe"
+    } ],
+    "uid" : "36c900977e1d8b81a2c6893cc82bfc01"
+  } ],
+  "name" : "suites"
+}
