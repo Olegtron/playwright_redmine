@@ -1,0 +1,94 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "chromium",
+    "children" : [ {
+      "name" : "LogP_PTC1.spec.js",
+      "children" : [ {
+        "name" : "login with valid credentials",
+        "uid" : "f61f8f31b707e653",
+        "parentUid" : "038cd9e1bf3ddd413474f82614750a93",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246492206,
+          "stop" : 1660246497429,
+          "duration" : 5223
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "038cd9e1bf3ddd413474f82614750a93"
+    }, {
+      "name" : "AccP_PTC1.spec.js",
+      "children" : [ {
+        "name" : "deletion of existing account",
+        "uid" : "15ee5f4963960fd4",
+        "parentUid" : "c3945eb0661f8ffee9cee958d7b95058",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246492207,
+          "stop" : 1660246498766,
+          "duration" : 6559
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c3945eb0661f8ffee9cee958d7b95058"
+    }, {
+      "name" : "LogP_NTC1.spec.js",
+      "children" : [ {
+        "name" : "login with not valid credentials",
+        "uid" : "3fabeca3a12a21a1",
+        "parentUid" : "fd8fd2b5265b51f104afa1ce0863890e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246492212,
+          "stop" : 1660246499529,
+          "duration" : 7317
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fd8fd2b5265b51f104afa1ce0863890e"
+    }, {
+      "name" : "RegP_PTC1.spec.js",
+      "children" : [ {
+        "name" : "registration with valid credentials",
+        "uid" : "32ef3dd61c6c3cbe",
+        "parentUid" : "bdd7ebf514a020cff3dab4fff4c7a5fe",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246492224,
+          "stop" : 1660246501020,
+          "duration" : 8796
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bdd7ebf514a020cff3dab4fff4c7a5fe"
+    }, {
+      "name" : "RegP_NTC1.spec.js",
+      "children" : [ {
+        "name" : "registration with not valid credentials",
+        "uid" : "1b46a1c8385f0956",
+        "parentUid" : "fad90baa2d3586e65205d46cb7a505f2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246492228,
+          "stop" : 1660246499233,
+          "duration" : 7005
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "fad90baa2d3586e65205d46cb7a505f2"
+    } ],
+    "uid" : "36c900977e1d8b81a2c6893cc82bfc01"
+  } ],
+  "name" : "suites"
+}
