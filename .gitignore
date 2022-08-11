@@ -8,6 +8,6 @@ _config.yml
 package-lock.json
 package.json
 test_run_commands.md
-allure-report
-allure-results
+allure-report/
+allure-results/
 playwright.config.js
