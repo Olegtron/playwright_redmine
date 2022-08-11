@@ -1,0 +1,344 @@
+{
+  "uid" : "aaa8bf2d5613271b",
+  "name" : "login with valid credentials",
+  "fullName" : "login with valid credentials",
+  "historyId" : "chromium LogP_PTC1.spec.js login with valid credentials",
+  "time" : {
+    "start" : 1660246492206,
+    "stop" : 1660246497429,
+    "duration" : 5223
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1660246492206,
+        "stop" : 1660246493461,
+        "duration" : 1255
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.newPage",
+        "time" : {
+          "start" : 1660246493232,
+          "stop" : 1660246493461,
+          "duration" : 229
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "page.goto(https://www.redmine.org/)",
+      "time" : {
+        "start" : 1660246493467,
+        "stop" : 1660246495105,
+        "duration" : 1638
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click([href=\"/login\"])",
+      "time" : {
+        "start" : 1660246495107,
+        "stop" : 1660246495363,
+        "duration" : 256
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"username\"])",
+      "time" : {
+        "start" : 1660246495364,
+        "stop" : 1660246495438,
+        "duration" : 74
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.fill([id=\"password\"])",
+      "time" : {
+        "start" : 1660246495440,
+        "stop" : 1660246495479,
+        "duration" : 39
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "locator.click([type=\"submit\"])",
+      "time" : {
+        "start" : 1660246495481,
+        "stop" : 1660246497322,
+        "duration" : 1841
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "expect.toHaveURL",
+      "time" : {
+        "start" : 1660246497324,
+        "stop" : 1660246497403,
+        "duration" : 79
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "expect.toHaveText",
+      "time" : {
+        "start" : 1660246497405,
+        "stop" : 1660246497416,
+        "duration" : 11
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1660246497416,
+        "stop" : 1660246497428,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "browserContext.close",
+        "time" : {
+          "start" : 1660246497419,
+          "stop" : 1660246497427,
+          "duration" : 8
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 11,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "parentSuite",
+    "value" : "chromium"
+  }, {
+    "name" : "suite",
+    "value" : "LogP_PTC1.spec.js"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-Q9BQ6AN"
+  }, {
+    "name" : "thread",
+    "value" : "DESKTOP-Q9BQ6AN-2020-playwright-worker-2"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 13,
+        "unknown" : 0,
+        "total" : 13
+      },
+      "items" : [ {
+        "uid" : "95eaeb07f7b35553",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/12//#testresult/95eaeb07f7b35553",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246492206,
+          "stop" : 1660246497429,
+          "duration" : 5223
+        }
+      }, {
+        "uid" : "f61f8f31b707e653",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/11//#testresult/f61f8f31b707e653",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246492206,
+          "stop" : 1660246497429,
+          "duration" : 5223
+        }
+      }, {
+        "uid" : "bd081cb85a37dee2",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/10//#testresult/bd081cb85a37dee2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660246105974,
+          "stop" : 1660246112066,
+          "duration" : 6092
+        }
+      }, {
+        "uid" : "9be35503817f0951",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/9//#testresult/9be35503817f0951",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245708649,
+          "stop" : 1660245713353,
+          "duration" : 4704
+        }
+      }, {
+        "uid" : "8086832c46bdbb23",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/8//#testresult/8086832c46bdbb23",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660245517115,
+          "stop" : 1660245522210,
+          "duration" : 5095
+        }
+      }, {
+        "uid" : "5128e8affa3a4812",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/7//#testresult/5128e8affa3a4812",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660244557932,
+          "stop" : 1660244564789,
+          "duration" : 6857
+        }
+      }, {
+        "uid" : "f46b52213253152a",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/6//#testresult/f46b52213253152a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660244557932,
+          "stop" : 1660244564789,
+          "duration" : 6857
+        }
+      }, {
+        "uid" : "cf9c79e9d891892b",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/5//#testresult/cf9c79e9d891892b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660228643576,
+          "stop" : 1660228651378,
+          "duration" : 7802
+        }
+      }, {
+        "uid" : "814a27b715dc57f6",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/4//#testresult/814a27b715dc57f6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660228643576,
+          "stop" : 1660228651378,
+          "duration" : 7802
+        }
+      }, {
+        "uid" : "8f1bce8e6ef7da79",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/3//#testresult/8f1bce8e6ef7da79",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660228643576,
+          "stop" : 1660228651378,
+          "duration" : 7802
+        }
+      }, {
+        "uid" : "42d01983432af14f",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/2//#testresult/42d01983432af14f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660228643576,
+          "stop" : 1660228651378,
+          "duration" : 7802
+        }
+      }, {
+        "uid" : "2a01e3b45328ebef",
+        "reportUrl" : "https://Olegtron.github.io/playwright_redmine/1//#testresult/2a01e3b45328ebef",
+        "status" : "passed",
+        "time" : {
+          "start" : 1660228643576,
+          "stop" : 1660228651378,
+          "duration" : 7802
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "aaa8bf2d5613271b.json",
+  "parameterValues" : [ ]
+}
