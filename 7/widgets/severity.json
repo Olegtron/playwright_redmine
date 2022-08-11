@@ -1,0 +1,51 @@
+[ {
+  "uid" : "d5a7493b095286f",
+  "name" : "registration with valid credentials",
+  "time" : {
+    "start" : 1660244557939,
+    "stop" : 1660244567716,
+    "duration" : 9777
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5128e8affa3a4812",
+  "name" : "login with valid credentials",
+  "time" : {
+    "start" : 1660244557932,
+    "stop" : 1660244564789,
+    "duration" : 6857
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3d9d05c9619ef2c",
+  "name" : "registration with not valid credentials",
+  "time" : {
+    "start" : 1660244557928,
+    "stop" : 1660244568624,
+    "duration" : 10696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40655660dd2837fa",
+  "name" : "deletion of existing account",
+  "time" : {
+    "start" : 1660228643580,
+    "stop" : 1660228659160,
+    "duration" : 15580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "908f39f0226dfd0a",
+  "name" : "login with not valid credentials",
+  "time" : {
+    "start" : 1660244557904,
+    "stop" : 1660244567570,
+    "duration" : 9666
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
